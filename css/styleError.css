@@ -1,0 +1,9 @@
+html{
+    background-color: rgba(253, 200, 183, 1);
+}
+
+.whoops img{
+    display:block;
+    margin: 0 auto;
+    padding-top: 20%;
+  }
